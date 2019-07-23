@@ -1,16 +1,21 @@
-# color_game
+# color-game
 
-A new Flutter project.
+Tap on the correct color corresponding to the RGB values
 
-## Getting Started
+- First Flutter project after codelab 1 & 2
 
-This project is a starting point for a Flutter application.
+## Things Learned
 
-A few resources to get you started if this is your first Flutter project:
+- Nested widgets
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Navigating Flutter docs
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Basic containers
+
+## Things to learn
+
+- Themes
+
+- Project layout
+
+- API Calls
